@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+#locale                   : "en-US"
 title                    : "Hello World"
 title_separator          : "-"
 name                     : &name "Pranav Goel"
@@ -54,13 +54,13 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
+# twitter:
+#   username               : &twitter
 facebook:
-  username               :
+  username               : pgbolt
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+#og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -81,7 +81,7 @@ author:
   name             : "Pranav Goel"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  #location         : "Location"
   employer         :
   googlescholar    : "https://scholar.google.co.in/citations?user=LOXt_eYAAAAJ&hl=en"
   email            :
@@ -90,21 +90,21 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/pgbolt"
   foursquare       :
   github           : "Pranav-Goel"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/pranav-goel-50a885111/"
+  #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  #twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :

@@ -79,8 +79,8 @@ analytics:
 # Site Author
 author:
   name             : "Pranav Goel"
-  avatar           : "files/IMG_20180222_094813.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "IMG_20180222_094813.jpg"
+  bio              : "Computers and Languages. What would we do without them?"
   #location         : "Location"
   employer         :
   googlescholar    : "https://scholar.google.co.in/citations?user=LOXt_eYAAAAJ&hl=en"

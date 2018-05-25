@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Pranav Goel"
-  avatar           : "profile.png"
+  avatar           : "files/IMG_20180222_094813.jpg"
   bio              : "Your biography for the left-hand sidebar"
   #location         : "Location"
   employer         :
@@ -90,14 +90,14 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/pgbolt"
+  facebook         : "pgbolt"
   foursquare       :
   github           : "Pranav-Goel"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/pranav-goel-50a885111/"
+  linkedin         : "pranav-goel-50a885111/"
   #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

@@ -1,5 +1,5 @@
 ---
-title: "Prayas at EmoInt 2017"
+title: "IIT (BHU): System Description for LSDSem'17 Shared Task"
 collection: publications
 permalink: /publication/2017-02-15-paper-title-number-1
 date: 2017-02-15

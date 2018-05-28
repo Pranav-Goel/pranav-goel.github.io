@@ -1,5 +1,5 @@
 ---
-title: "Prayas at EmoInt 2017: An Ensemble of Deep Neural Architectures for Emotion Intensity Prediction in Tweets"
+title: "Prayas at EmoInt 2017: An Ensemble of Deep Neural Architectures for Emotion Intensity Prediction in Tweets [Shared Task WINNER]"
 collection: publications
 permalink: /publication/2017-09-01-paper-title-number-2
 date: 2017-09-01

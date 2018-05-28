@@ -19,6 +19,9 @@ I grew up in [New Delhi](https://en.wikipedia.org/wiki/New_Delhi), India.
 Latest
 ======
 **May 2018** Long Paper accepted at COLING 2018!
+
 **May 2018** Gave an Oral Presentation on my accepted work at IWSDS 2018.
+
 **May 2018** Completed my Bachelors in Computer Science and Engineering at IIT (BHU) Varanasi.
+
 **April 2018** Decided to join University of Maryland, College Park's Ph.D. in Computer Science program commencing in fall 2018!

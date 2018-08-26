@@ -7,4 +7,4 @@ venue: '(Accepted at) COLING'
 citation: 'Pranav Goel, Devang Kulshreshtha, and Anil Kumar Singh. "How emotional are you? Neural Architectures for Emotion Intensity Prediction in Microblogs". COLING 2018. (2018)'
 ---
 
-[Download - Coming Soon!]()
+[Download paper here](https://pranav-goel.github.io/files/Coling_Emo_Intensity_Cam_Ready.pdf)

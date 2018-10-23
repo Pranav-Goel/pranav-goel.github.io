@@ -8,3 +8,7 @@ citation: 'Joshi, Aditya, Pranav Goel, Pushpak Bhattacharyya, and Mark J. Carman
 ---
 
 [Download paper here](https://pranav-goel.github.io/files/Sarcasm_Target_Identification_LREC2018.pdf)
+
+[Code](https://github.com/Pranav-Goel/Sarcasm_Target_Identification)
+
+[Data](https://github.com/Pranav-Goel/Sarcasm-Target-Detection)

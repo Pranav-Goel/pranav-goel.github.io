@@ -11,6 +11,9 @@ author_profile: true
 <h2> Academic (Internal/Seminars) </h2>
 
 <h2> Misc (Non-Research/CS/AI) </h2>
+{% for post in site.talks.misc reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
 
 <!--
 {% for post in site.talks reversed %}

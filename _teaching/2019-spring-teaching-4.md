@@ -7,3 +7,5 @@ venue: "Computer Science, University of Maryland"
 date: 2019-01-28
 location: "College Park, MD"
 ---
+
+[Course Website](http://users.umiacs.umd.edu/~jbg/teaching/CMSC_470/)

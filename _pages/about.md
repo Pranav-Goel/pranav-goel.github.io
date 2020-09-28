@@ -1,12 +1,23 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Latest
+======
+
+**September 2020** Paper on **Improving Neural Topic Models using Knowledge Distillation** accepted as a long paper at EMNLP 2020! Joint work with Alexander Hoyle (we are both first authors) and Philip Resnik.
+
+**August 2020** We got an NSF grant for our idea and planned project on Modeling Co-Decisions: A Computational Framework Using Language and Metadata [(story)](https://www.umiacs.umd.edu/about-us/news/resnik-developing-computational-models-better-understand-how-decisions-are-made).
+
+**June 2020 - August 2020** Research Internship at MSR, Redmond with [Nebojsa Jojic](https://www.microsoft.com/en-us/research/people/jojic/) at the [NLP Group](https://www.microsoft.com/en-us/research/group/natural-language-processing/).
+
+About Me
+======
 
 I am a budding Computer Scientist excited by research lying at the intersection of Natural Language Processing and Machine Learning (and lately Computational Social Science). I am a second-year **Ph.D.** student at the [**University of Maryland**](https://www.umd.edu/) in the [**Computer Science**](https://www.cs.umd.edu/people/pgoel1) program doing **NLP** research at the Computational Linguistics and Information Processing ([**CLIP**](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page)) lab. I am currently looking at the role of Language in Computational Political Science with **my advisor [Philip Resnik](http://users.umiacs.umd.edu/~resnik/)**. I finished my Bachelors in [Computer Science and Engineering](https://www.iitbhu.ac.in/dept/cse) from [Indian Institute of Technology (BHU) Varanasi](https://www.iitbhu.ac.in/) in 2018.
 
@@ -18,14 +29,8 @@ I am lucky to have worked with many amazing people on extremely interesting topi
 
 I grew up in [New Delhi](https://en.wikipedia.org/wiki/New_Delhi), India.
 
-Latest
+Previously on 'Latest'
 ======
-
-**September 2020** Paper on **Improving Neural Topic Models using Knowledge Distillation** accepted as a long paper at EMNLP 2020! Joint work with Alexander Hoyle (we are both first authors) and Philip Resnik.
-
-**August 2020** We got an NSF grant for our idea and planned project on Modeling Co-Decisions: A Computational Framework Using Language and Metadata [(story)](https://www.umiacs.umd.edu/about-us/news/resnik-developing-computational-models-better-understand-how-decisions-are-made).
-
-**June 2020 - August 2020** Research Internship at MSR, Redmond with [Nebojsa Jojic](https://www.microsoft.com/en-us/research/people/jojic/) at the [NLP Group](https://www.microsoft.com/en-us/research/group/natural-language-processing/).
 
 **October 2019** Paper on Probing Pre-trained Representations for Physical Common Sense Comparisons accepted at COIN (COmmonsense INference in Natural Language Processing) at EMNLP 2019!
 

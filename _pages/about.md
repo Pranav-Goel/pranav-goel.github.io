@@ -10,7 +10,7 @@ redirect_from:
 Latest
 ======
 
-**September 2020** Paper on [**Improving Neural Topic Models using Knowledge Distillation**](https://arxiv.org/pdf/2010.02377.pdf) accepted as a long paper at EMNLP 2020! Joint work with Alexander Hoyle (we are both first authors) and Philip Resnik.
+**September 2020** Paper on [**Improving Neural Topic Models using Knowledge Distillation**](https://www.aclweb.org/anthology/2020.emnlp-main.137.pdf) accepted as a long paper at EMNLP 2020! Joint work with Alexander Hoyle (we are both first authors) and Philip Resnik.
 
 **August 2020** We got an NSF grant for our idea and planned project on Modeling Co-Decisions: A Computational Framework Using Language and Metadata [(story)](https://www.umiacs.umd.edu/about-us/news/resnik-developing-computational-models-better-understand-how-decisions-are-made).
 

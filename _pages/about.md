@@ -12,7 +12,9 @@ Latest
 
 **November 15, 2022** Successfully proposed my dissertation on ["Analyzing communicative choices to understand their motivations, context-based variation, and social consequences"](https://talks.cs.umd.edu/talks/3315) and advanced to candidacy!
 
-**October, 2022** Paper --- "Are Neural Topic Models Broken?" --- accepted for publication at Findings in EMNLP 2022. 
+**October 2022** Paper --- "Are Neural Topic Models Broken?" --- accepted for publication at Findings in EMNLP 2022. 
+
+**October 2022** [Poster](https://pranav-goel.github.io/files/umd_tada2022.pdf) presented at Text-as-Data 2022. 
 
 **June 28, 2022** [Talk](https://www.networkscienceinstitute.org/talks/pranav-goel) at the Network Science Institute at Northeaster University on my ongoing work on Misinformation Narratives in Mainstream Media. 
 

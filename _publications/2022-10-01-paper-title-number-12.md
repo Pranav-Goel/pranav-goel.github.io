@@ -1,5 +1,5 @@
 ---
-title: "Is Automated Topic Model Evaluation Broken?: The Incoherence of Coherence"
+title: "Are Neural Topic Models Broken?"
 collection: publications
 permalink: /publication/2022-10-01-paper-title-number-12
 date: 2022-10-01

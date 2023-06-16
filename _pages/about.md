@@ -10,18 +10,17 @@ redirect_from:
 Latest
 ======
 
-**November 15, 2022** Successfully proposed my dissertation on ["Analyzing communicative choices to understand their motivations, context-based variation, and social consequences"](https://talks.cs.umd.edu/talks/3315) and advanced to candidacy!
+**June 12, 2023** I successfully defended my PhD thesis on "Analyzing communicative choices to understand their motivations, context-based variation, and social consequences"! #PhDone
 
-**October 2022** Paper --- ["Are Neural Topic Models Broken?"](https://arxiv.org/abs/2210.16162) --- accepted for publication at Findings in EMNLP 2022. 
+**June 8, 2023** Our work, "Mainstream News Articles Co-Shared with Fake News Buttress Misinformation Narratives", accepted at ICWSM 2023 (non-archival track) and presented in Cyprus, has been awarded the [**Outstanding Study Design**](https://twitter.com/icwsm/status/1667140733453606914) award. (preprint to be made available soon)
 
-**October 2022** [Poster](https://pranav-goel.github.io/files/umd_tada2022.pdf) presented at Text-as-Data 2022. 
-
-**June 28, 2022** [Talk](https://www.networkscienceinstitute.org/talks/pranav-goel) at the Network Science Institute at Northeaster University on my ongoing work on Misinformation Narratives in Mainstream Media. 
 
 About Me
 ======
 
-I am a fifth-year **Ph.D.** candidate at the [**University of Maryland**](https://www.umd.edu/) in the [**Computer Science**](https://www.cs.umd.edu/people/pgoel1) program doing **Computational Social Science** and **NLP** research at the Computational Linguistics and Information Processing ([**CLIP**](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page)) lab. I am currently working on multiple exciting projects with **my advisor [Philip Resnik](http://users.umiacs.umd.edu/~resnik/)**, including text-as-data applications in computational political science, understanding misinformation narratives, and improving topic model evaluation and their ability to assist practitioners. My collaborations over these projects include Microsoft Research, the Department of Government and Politics at UMD, and the [Lazer Lab](https://lazerlab.net/) at Northeastern University. I finished my Bachelors in [Computer Science and Engineering](https://www.iitbhu.ac.in/dept/cse) from [Indian Institute of Technology (BHU) Varanasi](https://www.iitbhu.ac.in/) in 2018, and completed my Master's in CS at UMD in 2020. 
+I am a research scientist, who just defended his PhD thesis at the [**University of Maryland**](https://www.umd.edu/) in the [**Computer Science**](https://www.cs.umd.edu/people/pgoel1) program doing **Computational Social Science** and **NLP** research at the Computational Linguistics and Information Processing ([**CLIP**](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page)) lab. I am currently working on multiple exciting projects with **my advisor [Philip Resnik](http://users.umiacs.umd.edu/~resnik/)**, including text-as-data applications in computational political science, understanding misinformation narratives, and improving topic model evaluation and their ability to assist practitioners. My collaborations over these projects include Microsoft Research, the Department of Government and Politics at UMD, and the [Lazer Lab](https://lazerlab.net/) at Northeastern University. I finished my Bachelors in [Computer Science and Engineering](https://www.iitbhu.ac.in/dept/cse) from [Indian Institute of Technology (BHU) Varanasi](https://www.iitbhu.ac.in/) in 2018, and completed my Master's in CS at UMD in 2020. 
+
+In Fall 2023, I will start a postdoctoral position at Northeastern University's Network Science Institute with David Lazer as my advisor, as part of the [Lazer Lab](https://lazerlab.net/). 
 
 Over the past year, I have been getting more and more interested in computational social science starting with applications in computational political science and understanding misinformation, with the social phenomenon of _framing_, including agenda-setting, a connective thread. My dissertation is titled: **Analyzing communicative choices to understand their motivations, context-based variation, and social consequences**. I am (eventually) looking to delve into how to make sure NLP systems do not help create and maintain social hierarchies and systemic biases that pervade our society (much like we know *language* can and does) --- which requires understanding and collaborations in social sciences. I want to examine ways NLP and computational linguistics can be part of the solution (just like language can) with the understanding that sometimes the right thing to do is not to think about improving but scraping the technological 'solution' or tool. 
 
@@ -31,6 +30,14 @@ I grew up in New Delhi, India.
 
 Previously on 'Latest'
 ======
+
+**November 15, 2022** Successfully proposed my dissertation on ["Analyzing communicative choices to understand their motivations, context-based variation, and social consequences"](https://talks.cs.umd.edu/talks/3315) and advanced to candidacy!
+
+**October 2022** Paper --- ["Are Neural Topic Models Broken?"](https://arxiv.org/abs/2210.16162) --- accepted for publication at Findings in EMNLP 2022. 
+
+**October 2022** [Poster](https://pranav-goel.github.io/files/umd_tada2022.pdf) presented at Text-as-Data 2022. 
+
+**June 28, 2022** [Talk](https://www.networkscienceinstitute.org/talks/pranav-goel) at the Network Science Institute at Northeaster University on my ongoing work on Misinformation Narratives in Mainstream Media. 
 
 **June 2022 - September 2022** Summer Research Fellowship at [National Intitute of Science & Technology (NIST) community resilience program](https://www.nist.gov/community-resilience) working on a human-in-the-loop document annotation tool, in collaboration with [Prof. Jordan Boyd-Graber](http://users.umiacs.umd.edu/~jbg/) and [Dr. Juan Fung](https://www.nist.gov/blogs/taking-measure/authors/juan-fung).
 

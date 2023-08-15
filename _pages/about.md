@@ -12,7 +12,7 @@ Latest
 
 **June 12, 2023** I successfully defended my PhD thesis on "Analyzing communicative choices to understand their motivations, context-based variation, and social consequences"! #PhDone
 
-**June 8, 2023** Our work, "Mainstream News Articles Co-Shared with Fake News Buttress Misinformation Narratives", accepted at ICWSM 2023 (non-archival track) and presented in Cyprus, has been awarded the [**Outstanding Study Design**](https://twitter.com/icwsm/status/1667140733453606914) award. (preprint to be made available soon)
+**June 8, 2023** Our work, "Mainstream News Articles Co-Shared with Fake News Buttress Misinformation Narratives", accepted at ICWSM 2023 (non-archival track) and presented in Cyprus, has been awarded the [**Outstanding Study Design**](https://twitter.com/icwsm/status/1667140733453606914) award. (preprint: [https://arxiv.org/abs/2308.06459](https://arxiv.org/abs/2308.06459))
 
 
 About Me

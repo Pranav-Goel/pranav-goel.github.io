@@ -10,6 +10,10 @@ redirect_from:
 Latest
 ======
 
+**Sep 2023** I begin my new position as a Postdoctoral Research Associate at the Network Science Institute, College of Social Sciences and Humanities, Northeastern University in the Boston area, with Prof. David Lazer as my advisor. 
+
+**August 29, 2023** Our work, "Donor Activity is Associated with US Legislators' Attention to Political Issues", is formally accepted by the PLOS ONE journal. (preprint: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4361565](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4361565))
+
 **June 12, 2023** I successfully defended my PhD thesis on "Analyzing communicative choices to understand their motivations, context-based variation, and social consequences"! #PhDone
 
 **June 8, 2023** Our work, "Mainstream News Articles Co-Shared with Fake News Buttress Misinformation Narratives", accepted at ICWSM 2023 (non-archival track) and presented in Cyprus, has been awarded the [**Outstanding Study Design**](https://twitter.com/icwsm/status/1667140733453606914) award. (preprint: [https://arxiv.org/abs/2308.06459](https://arxiv.org/abs/2308.06459))

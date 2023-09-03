@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Pranav Goel"
   avatar           : "IMG_1740.jpeg"
-  bio              : "Computers and Languages. What would we do without them?"
+  bio              : "Research Scientist: Computational Social Science + Natural Language Processing"
   #location         : "Location"
   employer         :
   googlescholar    : "https://scholar.google.co.in/citations?user=LOXt_eYAAAAJ&hl=en"
@@ -172,9 +172,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
+  # publications:
+  #   output: true
+  #   permalink: /:collection/:path/
 #   portfolio:
 #     output: true
 #     permalink: /:collection/:path/

@@ -10,6 +10,8 @@ redirect_from:
 Latest
 ======
 
+**October 2023** PhD dissertation is now [publicly available online](https://drum.lib.umd.edu/items/f0c518bc-a5b8-41fa-92e4-c3a122f2fc9b)
+
 **September 2023** New position as a Postdoctoral Research Associate at the Network Science Institute, College of Social Sciences and Humanities, Northeastern University in the Boston area, with Prof. David Lazer. 
 
 **August 29, 2023** Our work, "Donor Activity is Associated with US Legislators' Attention to Political Issues", is formally published in PLOS ONE: [https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291169](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291169)
@@ -32,6 +34,8 @@ I grew up in New Delhi, India.
 
 Previously on 'Latest'
 ======
+
+**March 2023** Received the Ann G. Wylie Dissertation Fellowship 2023.
 
 **November 15, 2022** Successfully proposed my dissertation on ["Analyzing communicative choices to understand their motivations, context-based variation, and social consequences"](https://talks.cs.umd.edu/talks/3315) and advanced to candidacy!
 

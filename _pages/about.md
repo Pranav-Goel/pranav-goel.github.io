@@ -10,6 +10,8 @@ redirect_from:
 Latest
 ======
 
+**November 2023** Our work "Natural Language Decompositions of Implicit Content Enable Better Text Representations" got accepted at EMNLP 2023 (preprint: [https://arxiv.org/pdf/2305.14583.pdf](https://arxiv.org/pdf/2305.14583.pdf))
+
 **October 2023** PhD dissertation is now [publicly available online](https://drum.lib.umd.edu/items/f0c518bc-a5b8-41fa-92e4-c3a122f2fc9b)
 
 **September 2023** New position as a Postdoctoral Research Associate at the Network Science Institute, College of Social Sciences and Humanities, Northeastern University in the Boston area, with Prof. David Lazer. 

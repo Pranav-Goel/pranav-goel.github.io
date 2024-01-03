@@ -12,7 +12,7 @@ Latest
 
 **December 2023** Our work "Inequalities in Online Representation: Who Follows Their Own Member of Congress on Twitter?" got accepted at Journal of Quantitative Description (JQD) ([https://journalqd.org/article/view/4100](https://journalqd.org/article/view/4100))
 
-**November 2023** Our work "Natural Language Decompositions of Implicit Content Enable Better Text Representations" got accepted at EMNLP 2023 (preprint: [https://arxiv.org/pdf/2305.14583.pdf](https://arxiv.org/pdf/2305.14583.pdf))
+**November 2023** Our work "Natural Language Decompositions of Implicit Content Enable Better Text Representations" got accepted at EMNLP 2023 ([https://aclanthology.org/2023.emnlp-main.815.pdf](https://aclanthology.org/2023.emnlp-main.815.pdf))
 
 **October 2023** PhD dissertation is now [publicly available online](https://drum.lib.umd.edu/items/f0c518bc-a5b8-41fa-92e4-c3a122f2fc9b)
 

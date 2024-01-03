@@ -10,6 +10,8 @@ redirect_from:
 Latest
 ======
 
+**December 2023** Our work "Inequalities in Online Representation: Who Follows Their Own Member of Congress on Twitter?" got accepted at Journal of Quantitative Description (JQD) ([https://journalqd.org/article/view/4100](https://journalqd.org/article/view/4100))
+
 **November 2023** Our work "Natural Language Decompositions of Implicit Content Enable Better Text Representations" got accepted at EMNLP 2023 (preprint: [https://arxiv.org/pdf/2305.14583.pdf](https://arxiv.org/pdf/2305.14583.pdf))
 
 **October 2023** PhD dissertation is now [publicly available online](https://drum.lib.umd.edu/items/f0c518bc-a5b8-41fa-92e4-c3a122f2fc9b)
@@ -17,10 +19,6 @@ Latest
 **September 2023** New position as a Postdoctoral Research Associate at the Network Science Institute, College of Social Sciences and Humanities, Northeastern University in the Boston area, with Prof. David Lazer. 
 
 **August 29, 2023** Our work, "Donor Activity is Associated with US Legislators' Attention to Political Issues", is formally published in PLOS ONE: [https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291169](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291169)
-
-**June 12, 2023** I successfully defended my PhD thesis on "Analyzing communicative choices to understand their motivations, context-based variation, and social consequences"! #PhDone
-
-**June 8, 2023** Our work, "Mainstream News Articles Co-Shared with Fake News Buttress Misinformation Narratives", accepted at ICWSM 2023 (non-archival track) and presented in Cyprus, has been awarded the [**Outstanding Study Design**](https://twitter.com/icwsm/status/1667140733453606914) award. (preprint: [https://arxiv.org/abs/2308.06459](https://arxiv.org/abs/2308.06459))
 
 
 About Me
@@ -36,6 +34,10 @@ I grew up in New Delhi, India.
 
 Previously on 'Latest'
 ======
+
+**June 12, 2023** I successfully defended my PhD thesis on "Analyzing communicative choices to understand their motivations, context-based variation, and social consequences"! #PhDone
+
+**June 8, 2023** Our work, "Mainstream News Articles Co-Shared with Fake News Buttress Misinformation Narratives", accepted at ICWSM 2023 (non-archival track) and presented in Cyprus, has been awarded the [**Outstanding Study Design**](https://twitter.com/icwsm/status/1667140733453606914) award. (preprint: [https://arxiv.org/abs/2308.06459](https://arxiv.org/abs/2308.06459))
 
 **March 2023** Received the Ann G. Wylie Dissertation Fellowship 2023.
 
@@ -65,7 +67,7 @@ Previously on 'Latest'
 
 **June 2019 - August 2019** Research Internship at MSR, Redmond with [Nebojsa Jojic](https://www.microsoft.com/en-us/research/people/jojic/) at the [NLP Group](https://www.microsoft.com/en-us/research/group/natural-language-processing/).
 
-**August 2018** Doctoral studies (in CS) begin at University of Maryland, College Park.
+**August 2018** Doctoral studies (in CS) begin at the University of Maryland, College Park.
 
 **May 2018** Long Paper on "*How emotional are you?* Neural Architectures for Emotion Intensity Prediction in Microblogs" accepted at COLING 2018!
 

@@ -10,6 +10,8 @@ redirect_from:
 Latest
 ======
 
+**January 2024** Our work "Improving the TENOR of Labeling: Re-evaluating Topic Models for Content Analysis" got accepted at EACL 2024 (preprint: [https://arxiv.org/pdf/2401.16348.pdf](https://arxiv.org/pdf/2401.16348.pdf))
+
 **December 2023** Our work "Inequalities in Online Representation: Who Follows Their Own Member of Congress on Twitter?" got accepted at Journal of Quantitative Description (JQD) ([https://journalqd.org/article/view/4100](https://journalqd.org/article/view/4100))
 
 **November 2023** Our work "Natural Language Decompositions of Implicit Content Enable Better Text Representations" got accepted at EMNLP 2023 ([https://aclanthology.org/2023.emnlp-main.815.pdf](https://aclanthology.org/2023.emnlp-main.815.pdf))

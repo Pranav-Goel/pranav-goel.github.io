@@ -10,17 +10,17 @@ redirect_from:
 Latest
 ======
 
+**September 2024** Presented "Exploring the Interaction of Trust in Science and Vaccine Hesitancy" and "Introduction to National Internet Observatory" at the Trust and Safety Research Conference 2024. 
+
+**July 2024** Presented "Introduction to National Internet Observatory" and "Revealing the Localness of News Domains through Sharing Patterns on Social Media" at IC2S2 2024.
+
+**June 2024** Presented ["Introduction to National Internet Observatory"](https://workshop-proceedings.icwsm.org/pdf/2024_73.pdf) at the ICWSM 2024 Data Challenge. 
+
+**March 2024** Presented "Locating the Asymmetry in Information Flow between Local and National Media on Transgender Discourses" at the Local Journalism Researchers Workshop 2024. 
+
+**March 2024** Presented "Revealing the Localness of News Domains through Sharing Patterns on Social Media" at the Local Journalism Researchers Workshop 2024. 
+
 **January 2024** Our work "Improving the TENOR of Labeling: Re-evaluating Topic Models for Content Analysis" got accepted at EACL 2024 (preprint: [https://arxiv.org/pdf/2401.16348.pdf](https://arxiv.org/pdf/2401.16348.pdf))
-
-**December 2023** Our work "Inequalities in Online Representation: Who Follows Their Own Member of Congress on Twitter?" got accepted at Journal of Quantitative Description (JQD) ([https://journalqd.org/article/view/4100](https://journalqd.org/article/view/4100))
-
-**November 2023** Our work "Natural Language Decompositions of Implicit Content Enable Better Text Representations" got accepted at EMNLP 2023 ([https://aclanthology.org/2023.emnlp-main.815.pdf](https://aclanthology.org/2023.emnlp-main.815.pdf))
-
-**October 2023** PhD dissertation is now [publicly available online](https://drum.lib.umd.edu/items/f0c518bc-a5b8-41fa-92e4-c3a122f2fc9b)
-
-**September 2023** New position as a Postdoctoral Research Associate at the Network Science Institute, College of Social Sciences and Humanities, Northeastern University in the Boston area, with Prof. David Lazer. 
-
-**August 29, 2023** Our work, "Donor Activity is Associated with US Legislators' Attention to Political Issues", is formally published in PLOS ONE: [https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291169](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291169)
 
 
 About Me
@@ -36,6 +36,16 @@ I grew up in New Delhi, India.
 
 Previously on 'Latest'
 ======
+
+**December 2023** Our work "Inequalities in Online Representation: Who Follows Their Own Member of Congress on Twitter?" got accepted at Journal of Quantitative Description (JQD) ([https://journalqd.org/article/view/4100](https://journalqd.org/article/view/4100)) and received the Information Technology and Politics (ITP) Best Paper Award 2023 by the American Political Science Association (APSA). 
+
+**November 2023** Our work "Natural Language Decompositions of Implicit Content Enable Better Text Representations" got accepted at EMNLP 2023 ([https://aclanthology.org/2023.emnlp-main.815.pdf](https://aclanthology.org/2023.emnlp-main.815.pdf))
+
+**October 2023** PhD dissertation is now [publicly available online](https://drum.lib.umd.edu/items/f0c518bc-a5b8-41fa-92e4-c3a122f2fc9b)
+
+**September 2023** New position as a Postdoctoral Research Associate at the Network Science Institute, College of Social Sciences and Humanities, Northeastern University in the Boston area, with Prof. David Lazer. 
+
+**August 29, 2023** Our work, "Donor Activity is Associated with US Legislators' Attention to Political Issues", is formally published in PLOS ONE: [https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291169](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291169)
 
 **June 12, 2023** I successfully defended my PhD thesis on "Analyzing communicative choices to understand their motivations, context-based variation, and social consequences"! #PhDone
 

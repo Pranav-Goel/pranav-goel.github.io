@@ -55,9 +55,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : Pranav__Goel
+  username               : 
 facebook:
-  username               : pgbolt
+  username               : 
   app_id                 :
   publisher              :
 #og_image                 :  # Open Graph/Twitter default site image
@@ -97,14 +97,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "pranav-goel-50a885111/"
+  linkedin         : 
   #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Pranav__Goel"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

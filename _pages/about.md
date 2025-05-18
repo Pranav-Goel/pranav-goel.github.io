@@ -10,18 +10,13 @@ redirect_from:
 Latest
 ======
 
-**September 2024** Presented "Exploring the Interaction of Trust in Science and Vaccine Hesitancy" and "Introduction to National Internet Observatory" at the Trust and Safety Research Conference 2024. 
+**May 2025** Our work "Using co-sharing to identify use of mainstream news for promoting potentially misleading narratives" has been accepted at Nature Human Behaviour (Publication forthcoming)
 
-**July 2024** Presented "Introduction to National Internet Observatory" and "Revealing the Localness of News Domains through Sharing Patterns on Social Media" at IC2S2 2024.
+**April 2025** Two ongoing works accepted for oral presentation at IC2S2 2025: "Understanding the Role of Platform Curation and User Agency in Partisan and Unreliable News Consumption" and "Navigating the Evolving Web: Are Large Language Modeling-based Chatbots Gatekeepers or Gateways?"
 
-**June 2024** Presented ["Introduction to National Internet Observatory"](https://workshop-proceedings.icwsm.org/pdf/2024_73.pdf) at the ICWSM 2024 Data Challenge. 
+**March 2025** Our work "Express Yourself (Ideologically): Legislators’ Ideal Points Across Audiences" has been accepted at the Journal of Politics (Publication forthcoming)
 
-**March 2024** Presented "Locating the Asymmetry in Information Flow between Local and National Media on Transgender Discourses" at the Local Journalism Researchers Workshop 2024. 
-
-**March 2024** Presented "Revealing the Localness of News Domains through Sharing Patterns on Social Media" at the Local Journalism Researchers Workshop 2024. 
-
-**January 2024** Our work "Improving the TENOR of Labeling: Re-evaluating Topic Models for Content Analysis" got accepted at EACL 2024 (preprint: [https://arxiv.org/pdf/2401.16348.pdf](https://arxiv.org/pdf/2401.16348.pdf))
-
+**March 2025** Our work "Locating the Asymmetry in Information Flow between Local and National Media on Transgender Discourses" has been accepted at the Special Issue of Bulletin of Applied Transgender Studies on 'Dynamics of Transphobic Content and Disinformation.' (Publication forthcoming)
 
 About Me
 ======
@@ -36,6 +31,18 @@ I grew up in New Delhi, India.
 
 Previously on 'Latest'
 ======
+
+**September 2024** Presented "Exploring the Interaction of Trust in Science and Vaccine Hesitancy" and "Introduction to National Internet Observatory" at the Trust and Safety Research Conference 2024. 
+
+**July 2024** Presented "Introduction to National Internet Observatory" and "Revealing the Localness of News Domains through Sharing Patterns on Social Media" at IC2S2 2024.
+
+**June 2024** Presented ["Introduction to National Internet Observatory"](https://workshop-proceedings.icwsm.org/pdf/2024_73.pdf) at the ICWSM 2024 Data Challenge. 
+
+**March 2024** Presented "Locating the Asymmetry in Information Flow between Local and National Media on Transgender Discourses" at the Local Journalism Researchers Workshop 2024. 
+
+**March 2024** Presented "Revealing the Localness of News Domains through Sharing Patterns on Social Media" at the Local Journalism Researchers Workshop 2024. 
+
+**January 2024** Our work "Improving the TENOR of Labeling: Re-evaluating Topic Models for Content Analysis" got accepted at EACL 2024 (preprint: [https://arxiv.org/pdf/2401.16348.pdf](https://arxiv.org/pdf/2401.16348.pdf))
 
 **December 2023** Our work "Inequalities in Online Representation: Who Follows Their Own Member of Congress on Twitter?" got accepted at Journal of Quantitative Description (JQD) ([https://journalqd.org/article/view/4100](https://journalqd.org/article/view/4100)) and received the Information Technology and Politics (ITP) Best Paper Award 2023 by the American Political Science Association (APSA). 
 

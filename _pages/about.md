@@ -10,7 +10,7 @@ redirect_from:
 Latest
 ======
 
-**May 2025** Our work "Using co-sharing to identify use of mainstream news for promoting potentially misleading narratives" has been accepted at Nature Human Behaviour (Publication forthcoming)
+**June 2025** Our work "Using co-sharing to identify use of mainstream news for promoting potentially misleading narratives" has been published in _Nature Human Behaviour_ ([article link](https://www.nature.com/articles/s41562-025-02223-4); [arXiv version](https://arxiv.org/abs/2308.06459))
 
 **April 2025** Two ongoing works accepted for oral presentation at IC2S2 2025: "Understanding the Role of Platform Curation and User Agency in Partisan and Unreliable News Consumption" and "Navigating the Evolving Web: Are Large Language Modeling-based Chatbots Gatekeepers or Gateways?"
 
@@ -20,6 +20,8 @@ Latest
 
 About Me
 ======
+
+**I am on the Academic Job Market in Fall 2025! I specialize in Computational Social Science, Text-as-Data applications, and Natural Language Processing.**
 
 I am currently a **Postdoctoral Research Associate** at Northeastern University's Network Science Institute with [David Lazer](https://www.lazerlab.net/people/david-lazer) as my advisor. I recently defended my PhD thesis at the [**University of Maryland**](https://www.umd.edu/) in the [**Computer Science**](https://www.cs.umd.edu/people/pgoel1) program, working with colleagues at the Computational Linguistics and Information Processing ([**CLIP**](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page)) lab, advised by **[Philip Resnik](http://users.umiacs.umd.edu/~resnik/)**. My research interests span **computational social science & natural language processing**, including text-as-data applications in computational political science, analyzing framing in news and social media, understanding misinformation narratives, and improving topic model evaluation and their ability to assist practitioners. My collaborations over these projects include Microsoft Research, the Department of Government and Politics at UMD, and the [Lazer Lab](https://lazerlab.net/) at Northeastern University. I finished my Bachelors in [Computer Science and Engineering](https://www.iitbhu.ac.in/dept/cse) from [Indian Institute of Technology (BHU) Varanasi](https://www.iitbhu.ac.in/) in 2018, and completed my Master's in CS at UMD in 2020.  
 

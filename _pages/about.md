@@ -10,6 +10,8 @@ redirect_from:
 Latest
 ======
 
+**July 2025** Our work "DomainDemo: a dataset of domain-sharing activities among different demographic groups on Twitter" has been accepted for publication in _Nature Scientific Data_ ([arXiv version](https://arxiv.org/pdf/2501.09035))
+
 **June 2025** Our work "Using co-sharing to identify use of mainstream news for promoting potentially misleading narratives" has been published in _Nature Human Behaviour_ ([article link](https://www.nature.com/articles/s41562-025-02223-4); [arXiv version](https://arxiv.org/abs/2308.06459))
 
 **April 2025** Two ongoing works accepted for oral presentation at IC2S2 2025: "Understanding the Role of Platform Curation and User Agency in Partisan and Unreliable News Consumption" and "Navigating the Evolving Web: Are Large Language Modeling-based Chatbots Gatekeepers or Gateways?"

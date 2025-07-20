@@ -10,7 +10,7 @@ redirect_from:
 Latest
 ======
 
-**July 2025** Our work "DomainDemo: a dataset of domain-sharing activities among different demographic groups on Twitter" has been published in _Nature Scientific Data_ ([article link](https://www.nature.com/articles/s41597-025-05604-6#citeas); [arXiv version](https://arxiv.org/pdf/2501.09035))
+**July 2025** Our work "DomainDemo: a dataset of domain-sharing activities among different demographic groups on Twitter" has been published in _Nature Scientific Data_ ([article link](https://www.nature.com/articles/s41597-025-05604-6); [arXiv version](https://arxiv.org/pdf/2501.09035))
 
 **June 2025** Our work "Using co-sharing to identify use of mainstream news for promoting potentially misleading narratives" has been published in _Nature Human Behaviour_ ([article link](https://www.nature.com/articles/s41562-025-02223-4); [arXiv version](https://arxiv.org/abs/2308.06459))
 

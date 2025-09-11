@@ -10,11 +10,15 @@ redirect_from:
 Latest
 ======
 
+**September 2025** Our work "Measuring Scalar Constructs in Social Science with LLMs" has been accepted for publication at EMNLP 2025 ([arXiv](https://arxiv.org/pdf/2509.03116))
+
+**August 2025** I led a tutorial on "Introduction to the National Internet Observatory" at PolNet-PaCSS 2025. 
+
 **July 2025** Our work "DomainDemo: a dataset of domain-sharing activities among different demographic groups on Twitter" has been published in _Nature Scientific Data_ ([article link](https://www.nature.com/articles/s41597-025-05604-6); [arXiv version](https://arxiv.org/pdf/2501.09035))
 
-**June 2025** Our work "Using co-sharing to identify use of mainstream news for promoting potentially misleading narratives" has been published in _Nature Human Behaviour_ ([article link](https://www.nature.com/articles/s41562-025-02223-4); [arXiv version](https://arxiv.org/abs/2308.06459))
+**July 2025** Two ongoing works presented at IC2S2 2025: "Understanding the Role of Platform Curation and User Agency in Partisan and Unreliable News Consumption" and "Navigating the Evolving Web: Are Large Language Modeling-based Chatbots 'One-Stop Shops' or Gateways?"
 
-**April 2025** Two ongoing works accepted for oral presentation at IC2S2 2025: "Understanding the Role of Platform Curation and User Agency in Partisan and Unreliable News Consumption" and "Navigating the Evolving Web: Are Large Language Modeling-based Chatbots Gatekeepers or Gateways?"
+**June 2025** Our work "Using co-sharing to identify use of mainstream news for promoting potentially misleading narratives" has been published in _Nature Human Behaviour_ ([article link](https://www.nature.com/articles/s41562-025-02223-4); [arXiv version](https://arxiv.org/abs/2308.06459))
 
 **March 2025** Our work "Express Yourself (Ideologically): Legislators’ Ideal Points Across Audiences" has been accepted at the Journal of Politics (Publication forthcoming)
 
@@ -23,13 +27,13 @@ Latest
 About Me
 ======
 
-**I am on the Academic Job Market in Fall 2025! I specialize in Computational Social Science, Text-as-Data applications, and Natural Language Processing.**
+**I am on the Academic Job Market in Fall 2025, for positions in Fall 2026! I specialize in Computational Social Science, Text-as-Data applications, and Natural Language Processing.**
 
-I am currently a **Postdoctoral Research Associate** at Northeastern University's Network Science Institute with [David Lazer](https://www.lazerlab.net/people/david-lazer) as my advisor. I recently defended my PhD thesis at the [**University of Maryland**](https://www.umd.edu/) in the [**Computer Science**](https://www.cs.umd.edu/people/pgoel1) program, working with colleagues at the Computational Linguistics and Information Processing ([**CLIP**](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page)) lab, advised by **[Philip Resnik](http://users.umiacs.umd.edu/~resnik/)**. My research interests span **computational social science & natural language processing**, including text-as-data applications in computational political science, analyzing framing in news and social media, understanding misinformation narratives, and improving topic model evaluation and their ability to assist practitioners. My collaborations over these projects include Microsoft Research, the Department of Government and Politics at UMD, and the [Lazer Lab](https://lazerlab.net/) at Northeastern University. I finished my Bachelors in [Computer Science and Engineering](https://www.iitbhu.ac.in/dept/cse) from [Indian Institute of Technology (BHU) Varanasi](https://www.iitbhu.ac.in/) in 2018, and completed my Master's in CS at UMD in 2020.  
+I am currently a **Postdoctoral Research Associate** at Northeastern University's Network Science Institute with [David Lazer](https://www.lazerlab.net/people/david-lazer) as my advisor. I defended my PhD thesis at the [**University of Maryland**](https://www.umd.edu/) in the [**Computer Science**](https://www.cs.umd.edu/people/pgoel1) program, working with colleagues at the Computational Linguistics and Information Processing ([**CLIP**](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page)) lab, advised by **[Philip Resnik](http://users.umiacs.umd.edu/~resnik/)**. My research interests span **computational social science & natural language processing**, using web and text data as a potent digital trace of societal dynamics. 
 
-Over the past year, I have been getting more and more interested in computational social science starting with applications in computational political science and understanding misinformation, with the social phenomenon of _framing_, including agenda-setting, a connective thread. My dissertation is titled: **Analyzing communicative choices to understand their motivations, context-based variation, and social consequences**. I am (eventually) looking to delve into how to make sure NLP systems do not help create and maintain social hierarchies and systemic biases that pervade our society (much like we know *language* can and does) --- which requires understanding and collaboration in social sciences. I want to examine ways NLP and computational linguistics can be part of the solution (just like language can) with the understanding that sometimes the right thing to do is not to think about improving but scraping the technological 'solution' or tool. 
+I am currently primarily interested in building a cross-platform understanding of online information consumption and investigating the impact of generative AI on information-seeking behavior. My past work has focused on analyzing framing in news and social media, understanding misinformation narratives, investigating American congressional politics such as the impact of donors on agenda-setting in floor speeches and inequality in online representation, and improving topic modeling evaluation and its ability to assist practitioners. My doctoral dissertation was titled: **Analyzing communicative choices to understand their motivations, context-based variation, and social consequences**. 
 
-I am lucky to have worked with many amazing people on extremely interesting topics and I look forward to exploring more!
+I am lucky to have worked with many amazing people on extremely interesting topics, and I look forward to exploring more!
 
 I grew up in New Delhi, India.
 

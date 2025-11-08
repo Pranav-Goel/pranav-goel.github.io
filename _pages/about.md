@@ -10,7 +10,7 @@ redirect_from:
 Latest
 ======
 
-**September 2025** Our work "Measuring Scalar Constructs in Social Science with LLMs" has been accepted for publication at EMNLP 2025 ([arXiv](https://arxiv.org/pdf/2509.03116))
+**November 2025** Our work "Measuring Scalar Constructs in Social Science with LLMs" has been published at EMNLP 2025 ([PDF](https://aclanthology.org/2025.emnlp-main.1635.pdf))
 
 **August 2025** I led a tutorial on "Introduction to the National Internet Observatory" at PolNet-PaCSS 2025. 
 

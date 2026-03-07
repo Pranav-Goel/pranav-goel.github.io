@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<ins>[Click to download Pranav Goel's CV](https://pranav-goel.github.io/files/latest_CV.pdf)</ins> (last updated: Jan 26, 2026)
+<ins>[Click to download Pranav Goel's CV](https://pranav-goel.github.io/files/latest_CV.pdf)</ins> (last updated: March 1, 2026)

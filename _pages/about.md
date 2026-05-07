@@ -10,6 +10,10 @@ redirect_from:
 Latest
 ======
 
+**May-June 2026** Join me as I lead tutorials on how to collect online activity data for research in the post-API age! At ICWSM 2026 in LA ([sign up](https://forms.gle/DQk8PFGXHhy2Kdwy5) ; [website](https://national-internet-observatory.github.io/beyondapi_icwsm26/)) and at NetSci 2026 in Boston ([sign up](https://forms.gle/sgjVPMSNWYeYh2K49) ; [website](https://national-internet-observatory.github.io/beyondapi_netsci26/))
+
+**April 2026** Check out the [preprint](https://osf.io/preprints/socarxiv/yexp6_v1) of our work: "A systematic review of social science studies analyzing social media data, 2010-2024." ([BlueSky post](https://bsky.app/profile/yang3kc.bsky.social/post/3mk6fnkfszc22))
+
 **November 2025** Our work "Measuring Scalar Constructs in Social Science with LLMs" has been published at EMNLP 2025 ([PDF](https://aclanthology.org/2025.emnlp-main.1635.pdf))
 
 **August 2025** I led a tutorial on "Introduction to the National Internet Observatory" at PolNet-PaCSS 2025. 
@@ -20,9 +24,6 @@ Latest
 
 **June 2025** Our work "Using co-sharing to identify use of mainstream news for promoting potentially misleading narratives" has been published in _Nature Human Behaviour_ ([article link](https://www.nature.com/articles/s41562-025-02223-4); [arXiv version](https://arxiv.org/abs/2308.06459))
 
-**March 2025** Our work "Express Yourself (Ideologically): Legislators’ Ideal Points Across Audiences" has been accepted at the Journal of Politics (Publication forthcoming)
-
-**March 2025** Our work "Locating the Asymmetry in Information Flow between Local and National Media on Transgender Discourses" has been accepted at the Special Issue of Bulletin of Applied Transgender Studies on 'Dynamics of Transphobic Content and Disinformation.' (Publication forthcoming)
 
 About Me
 ======
@@ -31,7 +32,7 @@ About Me
 
 I am currently a **Postdoctoral Research Associate** at Northeastern University's Network Science Institute with [David Lazer](https://www.lazerlab.net/people/david-lazer) as my advisor. I defended my PhD thesis at the [**University of Maryland**](https://www.umd.edu/) in the [**Computer Science**](https://www.cs.umd.edu/people/pgoel1) program, working with colleagues at the Computational Linguistics and Information Processing ([**CLIP**](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page)) lab, advised by **[Philip Resnik](http://users.umiacs.umd.edu/~resnik/)**. My research interests span **computational social science & natural language processing**, using web and text data as a potent digital trace of societal dynamics. 
 
-I am currently primarily interested in building a cross-platform understanding of online information consumption and investigating the impact of generative AI on information-seeking behavior. My past work has focused on analyzing framing in news and social media, understanding misinformation narratives, investigating American congressional politics such as the impact of donors on agenda-setting in floor speeches and inequality in online representation, and improving topic modeling evaluation and its ability to assist practitioners. My doctoral dissertation was titled: **Analyzing communicative choices to understand their motivations, context-based variation, and social consequences**. 
+I am currently primarily interested in building a cross-platform understanding of online information consumption and investigating the impact of generative AI on information-seeking behavior (and the online information experience more broadly). I believe online information is an area profoundly impacted by the adoption of generative AI tools, and we need to understand this rapidly changing landscape. My past work has focused on analyzing framing in news and social media, understanding misinformation narratives, investigating American congressional politics such as the impact of donors on agenda-setting in floor speeches and inequality in online representation, and improving topic modeling evaluation and its ability to assist practitioners. My doctoral dissertation was titled: **Analyzing communicative choices to understand their motivations, context-based variation, and social consequences**. 
 
 I am lucky to have worked with many amazing people on extremely interesting topics, and I look forward to exploring more!
 
@@ -39,6 +40,10 @@ I grew up in New Delhi, India.
 
 Previously on 'Latest'
 ======
+
+**March 2025** Our work "Express Yourself (Ideologically): Legislators’ Ideal Points Across Audiences" has been accepted at the Journal of Politics (Publication forthcoming)
+
+**March 2025** Our work "Locating the Asymmetry in Information Flow between Local and National Media on Transgender Discourses" has been accepted at the Special Issue of Bulletin of Applied Transgender Studies on 'Dynamics of Transphobic Content and Disinformation.' ([article link](https://bulletin.appliedtransstudies.org/article/4/1-3/4/))
 
 **September 2024** Presented "Exploring the Interaction of Trust in Science and Vaccine Hesitancy" and "Introduction to National Internet Observatory" at the Trust and Safety Research Conference 2024. 
 

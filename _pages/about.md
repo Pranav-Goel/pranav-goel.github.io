@@ -10,6 +10,8 @@ redirect_from:
 Latest
 ======
 
+**Fall 2026** Our work "Express Yourself (Ideologically): Legislators' Ideal Points Across Audiences" has been published in the Journal of Politics (JOP)! Check it out [here](https://www.journals.uchicago.edu/doi/10.1086/736360).
+
 **May-June 2026** Join me as I lead tutorials on how to collect online activity data for research in the post-API age! At ICWSM 2026 in LA ([sign up](https://forms.gle/DQk8PFGXHhy2Kdwy5) ; [website](https://national-internet-observatory.github.io/beyondapi_icwsm26/)) and at NetSci 2026 in Boston ([sign up](https://forms.gle/sgjVPMSNWYeYh2K49) ; [website](https://national-internet-observatory.github.io/beyondapi_netsci26/))
 
 **April 2026** Check out the [preprint](https://osf.io/preprints/socarxiv/yexp6_v1) of our work: "A systematic review of social science studies analyzing social media data, 2010-2024." ([BlueSky post](https://bsky.app/profile/yang3kc.bsky.social/post/3mk6fnkfszc22))

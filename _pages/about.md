@@ -10,7 +10,7 @@ redirect_from:
 Latest
 ======
 
-**Fall 2026** Our work "Express Yourself (Ideologically): Legislators' Ideal Points Across Audiences" has been published in the Journal of Politics (JOP)! Check it out [here](https://www.journals.uchicago.edu/doi/10.1086/736360).
+**Sep 2026** Our work "Express Yourself (Ideologically): Legislators' Ideal Points Across Audiences" has been published in the Journal of Politics (JOP)! Check it out [here](https://www.journals.uchicago.edu/doi/10.1086/736360).
 
 **May-June 2026** Join me as I lead tutorials on how to collect online activity data for research in the post-API age! At ICWSM 2026 in LA ([sign up](https://forms.gle/DQk8PFGXHhy2Kdwy5) ; [website](https://national-internet-observatory.github.io/beyondapi_icwsm26/)) and at NetSci 2026 in Boston ([sign up](https://forms.gle/sgjVPMSNWYeYh2K49) ; [website](https://national-internet-observatory.github.io/beyondapi_netsci26/))
 
@@ -30,15 +30,11 @@ Latest
 About Me
 ======
 
-**I am on the Academic Job Market in Fall 2025, for positions in Fall 2026! I specialize in Computational Social Science, Text-as-Data applications, and Natural Language Processing.**
-
 I am currently a **Postdoctoral Research Associate** at Northeastern University's Network Science Institute with [David Lazer](https://www.lazerlab.net/people/david-lazer) as my advisor. I defended my PhD thesis at the [**University of Maryland**](https://www.umd.edu/) in the [**Computer Science**](https://www.cs.umd.edu/people/pgoel1) program, working with colleagues at the Computational Linguistics and Information Processing ([**CLIP**](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page)) lab, advised by **[Philip Resnik](http://users.umiacs.umd.edu/~resnik/)**. My research interests span **computational social science & natural language processing**, using web and text data as a potent digital trace of societal dynamics. 
 
 I am currently primarily interested in building a cross-platform understanding of online information consumption and investigating the impact of generative AI on information-seeking behavior (and the online information experience more broadly). I believe online information is an area profoundly impacted by the adoption of generative AI tools, and we need to understand this rapidly changing landscape. My past work has focused on analyzing framing in news and social media, understanding misinformation narratives, investigating American congressional politics such as the impact of donors on agenda-setting in floor speeches and inequality in online representation, and improving topic modeling evaluation and its ability to assist practitioners. My doctoral dissertation was titled: **Analyzing communicative choices to understand their motivations, context-based variation, and social consequences**. 
 
 I am lucky to have worked with many amazing people on extremely interesting topics, and I look forward to exploring more!
-
-I grew up in New Delhi, India.
 
 Previously on 'Latest'
 ======
